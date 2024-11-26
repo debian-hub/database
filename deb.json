@@ -1,0 +1,492 @@
+[
+	{
+		"category": "Education",
+		"version": "v1.2.1",
+		"name": " Elements",
+		"url": "https://github.com/FlorianFe/Elements/releases/download/v1.2.1/Elements.deb",
+		"architecture": "amd64",
+		"description": "A desktop App which displays the periodic table",
+		"subcategory": "education",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v1.1.0",
+		"name": " Stacer",
+		"url": "https://github.com/oguzhaninan/Stacer/releases/download/v1.1.0/stacer_1.1.0_amd64.deb",
+		"architecture": "amd64",
+		"description": "Linux System Optimizer and Monitoring ",
+		"subcategory": "Monitoring",
+		"updateDetails": ""
+	},
+	{
+		"category": "Education",
+		"version": "2.6.4",
+		"name": " foliate",
+		"url": "https://github.com/johnfactotum/foliate/releases/download/2.6.4/com.github.johnfactotum.foliate_2.6.4_all.deb",
+		"architecture": "amd64",
+		"description": "A simple and modern GTK eBook reader",
+		"subcategory": "book-reader",
+		"updateDetails": ""
+	},
+	{
+		"category": "Education",
+		"version": "v0.9.4",
+		"name": "Lumi",
+		"url": "https://github.com/Lumieducation/Lumi/releases/download/v0.9.4/lumi_0.9.4_amd64.deb",
+		"architecture": "amd64",
+		"description": "Lumi is a Desktop App that offers a collection of tools to create, edit and share digital content with your class.",
+		"subcategory": "board",
+		"updateDetails": ""
+	},
+	{
+		"category": "Internet",
+		"version": "1.10.5",
+		"name": "Mailspring",
+		"url": "https://github.com/Foundry376/Mailspring/releases/download/1.10.5/mailspring-1.10.5-amd64.deb",
+		"architecture": "amd64",
+		"description": "A beautiful, fast and fully open source mail client for Mac, Windows and Linux. ",
+		"subcategory": "email cleint",
+		"updateDetails": ""
+	},
+	{
+		"category": "Education",
+		"version": "v1.6.4",
+		"name": "OpenBoard",
+		"url": "https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.6.4/openboard_ubuntu_22.04_1.6.4_amd64.deb",
+		"architecture": "amd64",
+		"description": "OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.",
+		"subcategory": "board",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "2.0.1",
+		"name": "RustScan",
+		"url": "https://github.com/RustScan/RustScan/releases/download/2.0.1/rustscan_2.0.1_amd64.deb",
+		"architecture": "Ch",
+		"description": "🤖 The Modern Port Scanner 🤖",
+		"subcategory": "Port Scanner",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v0.11.4",
+		"name": "Weylus",
+		"url": "https://github.com/H-M-H/Weylus/releases/download/v0.11.4/Weylus_0.11.4_amd64.deb",
+		"architecture": "amd64",
+		"description": "Use your tablet as graphic tablet/touch screen on your computer.",
+		"subcategory": "mirror screen",
+		"updateDetails": ""
+	},
+	{
+		"category": "Programming",
+		"version": "v2.3.0",
+		"name": "Zettlr",
+		"url": "https://github.com/Zettlr/Zettlr/releases/download/v2.3.0/Zettlr-2.3.0-amd64.deb",
+		"architecture": "amd64",
+		"description": "A Markdown Editor for the 21st century.",
+		"subcategory": "editor",
+		"updateDetails": ""
+	},
+	{
+		"category": "Programming",
+		"version": "1.59.0",
+		"name": "atom",
+		"url": "https://github.com/atom/atom/releases/download/v1.59.0/atom-amd64.deb",
+		"architecture": "amd64",
+		"description": "The hackable text editor",
+		"subcategory": "editor",
+		"updateDetails": ""
+	},
+	{
+		"category": "Internet",
+		"version": "v1.45.50",
+		"name": "brave-browser",
+		"url": "https://github.com/brave/brave-browser/releases/download/v1.45.50/brave-browser-nightly_1.45.50_amd64.deb",
+		"architecture": "amd64",
+		"description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+		"subcategory": "browser",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v2.6.1",
+		"name": "caddy",
+		"url": "https://github.com/caddyserver/caddy/releases/download/v2.6.1/caddy_2.6.1_linux_amd64.deb",
+		"architecture": "amd64",
+		"description": "Fast, multi-platform web server with automatic HTTPS",
+		"subcategory": "web server",
+		"updateDetails": ""
+	},
+	{
+		"category": "Programming",
+		"version": "v4.7.0",
+		"name": "code-server",
+		"url": "https://github.com/coder/code-server/releases/download/v4.7.0/code-server_4.7.0_amd64.deb",
+		"architecture": "amd64",
+		"description": "VS Code in the browser",
+		"subcategory": "ide",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v1.32.4",
+		"name": "compass",
+		"url": "https://github.com/mongodb-js/compass/releases/download/v1.32.4/mongodb-compass_1.32.4_amd64.deb",
+		"architecture": "amd64",
+		"description": "The GUI for MongoDB.",
+		"subcategory": "database client",
+		"updateDetails": ""
+	},
+	{
+		"category": "Programming",
+		"version": "6.10.1",
+		"name": "cpeditor",
+		"url": "https://github.com/cpeditor/cpeditor/releases/download/6.10.1/cpeditor-6.10.1-linux-amd64.deb",
+		"architecture": "amd64",
+		"description": "The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:",
+		"subcategory": "ide",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "22.1.2",
+		"name": "dbeaver",
+		"url": "https://github.com/dbeaver/dbeaver/releases/download/22.1.2/dbeaver-ce_22.1.2_amd64.deb",
+		"architecture": "amd64",
+		"description": "Free universal database tool and SQL client",
+		"subcategory": "SQL client",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v0.10.0",
+		"name": "dive",
+		"url": "https://github.com/wagoodman/dive/releases/download/v0.10.0/dive_0.10.0_linux_amd64.deb",
+		"architecture": "amd64",
+		"description": "A tool for exploring each layer in a docker image",
+		"subcategory": "tool",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v0.8.1",
+		"name": "duf",
+		"url": "https://github.com/muesli/duf/releases/download/v0.8.1/duf_0.8.1_linux_amd64.deb",
+		"architecture": "amd64",
+		"description": "Disk Usage/Free Utility - a better 'df' alternative",
+		"subcategory": "version control",
+		"updateDetails": ""
+	},
+	{
+		"category": "Internet",
+		"version": "v0.6.1",
+		"name": "elza",
+		"url": "https://github.com/elzabrowser/elza/releases/download/v0.6.1/ElzaBrowser.Setup.0.6.1.Ubuntu20.04.deb",
+		"architecture": "All",
+		"description": "Private, fast and minimal web browser based on electron with built-in tor.",
+		"subcategory": "browser",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v2.1.4",
+		"name": "erin",
+		"url": "https://github.com/losbiw/erin/releases/download/v2.1.4/erin.deb",
+		"architecture": "amd64",
+		"description": "A multiplatform desktop app with stunning wallpapers collections and dynamic filters.",
+		"subcategory": "wallpaper",
+		"updateDetails": ""
+	},
+	{
+		"category": "Graphics",
+		"version": "v3.6.0",
+		"name": "exifcleaner",
+		"url": "https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/exifcleaner_3.6.0_amd64.deb",
+		"architecture": "amd64",
+		"description": "Cross-platform desktop GUI app to clean image metadata",
+		"subcategory": "clean image metadata",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v8.4.0",
+		"name": "fd",
+		"url": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd_8.4.0_amd64.deb",
+		"architecture": "amd64",
+		"description": "A simple, fast and user-friendly alternative to 'find'",
+		"subcategory": "tool",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v12.1.0",
+		"name": "flameshot",
+		"url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.debian-11.amd64.deb",
+		"architecture": "amd64",
+		"description": "Powerful yet simple to use screenshot software.",
+		"subcategory": "screenshot",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v2.16.0",
+		"name": "gh",
+		"url": "https://github.com/cli/cli/releases/download/v2.16.0/gh_2.16.0_linux_amd64.deb",
+		"architecture": "amd64",
+		"description": "gh is GitHub on the command line.",
+		"subcategory": "command-line",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "2.9.6 Linux RC",
+		"name": "github-desktop-linux",
+		"url": "https://github.com/shiftkey/desktop/releases/download/release-2.9.6-linux1/GitHubDesktop-linux-2.9.6-linux1.deb",
+		"architecture": "All",
+		"description": "Fork of GitHub Desktop to support various Linux distributions",
+		"subcategory": "github-desktop",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v3.2.3",
+		"name": "hyper",
+		"url": "https://github.com/vercel/hyper/releases/download/v3.2.3/hyper_3.2.3_amd64.deb",
+		"architecture": "amd64",
+		"description": "A terminal built on web technologies",
+		"subcategory": "terminal",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "3.13.0",
+		"name": "inspircd",
+		"url": "https://github.com/inspircd/inspircd/releases/download/v3.13.0/inspircd_3.13.0.deb11u1_amd64.deb",
+		"architecture": "Ch",
+		"description": "A modular C++ IRC server (ircd).",
+		"subcategory": "tor",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "3.8.2",
+		"name": "ipscan",
+		"url": "https://github.com/angryip/ipscan/releases/download/3.8.2/ipscan_3.8.2_amd64.deb",
+		"architecture": "amd64",
+		"description": "Angry IP Scanner - fast and friendly network scanner",
+		"subcategory": "scan ip",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v0.4.0-beta.2",
+		"name": "litestream",
+		"url": "https://github.com/benbjohnson/litestream/releases/download/v0.4.0-beta.2/litestream-80f8de4d9ed16b7ae6f607bde85d90916784de7d-linux-amd64.deb",
+		"architecture": "amd64",
+		"description": "Streaming replication for SQLite.",
+		"subcategory": "database tool",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "0.23.1",
+		"name": "lsd",
+		"url": "https://github.com/Peltoche/lsd/releases/download/0.23.1/lsd_0.23.1_amd64.deb",
+		"architecture": "All",
+		"description": "Modern ls",
+		"subcategory": "command-line",
+		"updateDetails": ""
+	},
+	{
+		"category": "Programming",
+		"version": "v0.17.1",
+		"name": "marktext",
+		"url": "https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-amd64.deb",
+		"architecture": "amd64",
+		"description": "A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+		"subcategory": "editor",
+		"updateDetails": ""
+	},
+	{
+		"category": "Internet",
+		"version": "v0.28.0",
+		"name": "meilisearch",
+		"url": "https://github.com/meilisearch/meilisearch/releases/download/v0.28.0/meilisearch.deb",
+		"architecture": "All",
+		"description": "Powerful, fast, and an easy to use search engine",
+		"subcategory": "search engine",
+		"updateDetails": ""
+	},
+	{
+		"category": "Programming",
+		"version": "v2.0.10",
+		"name": "micro",
+		"url": "https://github.com/zyedidia/micro/releases/download/v2.0.10/micro-2.0.10-amd64.deb",
+		"architecture": "amd64",
+		"description": "A modern and intuitive terminal-based text editor",
+		"subcategory": "terminal text editor",
+		"updateDetails": ""
+	},
+	{
+		"category": "Internet",
+		"version": "v1.26.0",
+		"name": "min",
+		"url": "https://github.com/minbrowser/min/releases/download/v1.26.0/min-1.26.0-amd64.deb",
+		"architecture": "amd64",
+		"description": "A fast, minimal browser that protects your privacy",
+		"subcategory": "browser",
+		"updateDetails": ""
+	},
+	{
+		"category": "Audio",
+		"version": "0.13.1",
+		"name": "museeks",
+		"url": "https://github.com/martpie/museeks/releases/download/0.13.1/museeks-amd64.deb",
+		"architecture": "Mm",
+		"description": "🎵 A simple, clean and cross-platform music player",
+		"subcategory": "music player",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "nightly",
+		"name": "neovim",
+		"url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux64.deb",
+		"architecture": "amd64",
+		"description": "Vim-fork focused on extensibility and usability",
+		"subcategory": "editor",
+		"updateDetails": ""
+	},
+	{
+		"category": "Internet",
+		"version": "2.2.4",
+		"name": "nyxt",
+		"url": "https://github.com/atlas-engineer/nyxt/releases/download/2.2.4/nyxt_2.2.4_amd64.deb",
+		"architecture": "amd64",
+		"description": "Nyxt - the hacker's power-browser. ",
+		"subcategory": "browser",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "orange-v0.6.5",
+		"name": "orange",
+		"url": "https://github.com/naaive/orange/releases/download/orange-v0.6.5/orange_0.6.5_amd64.deb",
+		"architecture": "amd64",
+		"description": "Cross-platform local file search engine.",
+		"subcategory": "local file search engine",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "2.18",
+		"name": "pandoc",
+		"url": "https://github.com/jgm/pandoc/releases/download/2.18/pandoc-2.18-1-amd64.deb",
+		"architecture": "amd64",
+		"description": "Universal markup converter",
+		"subcategory": "markup converter",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "8.9.0",
+		"name": "peazip",
+		"url": "https://github.com/peazip/PeaZip/releases/download/8.9.0/peazip_8.9.0.LINUX.GTK2-1_amd64.deb",
+		"architecture": "amd64",
+		"description": "PeaZip is a free file archiver utility and rar extractor for Windows and Linux, work with 200+ archive types.",
+		"subcategory": "archiver",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v1.59.2",
+		"name": "rclone",
+		"url": "https://github.com/rclone/rclone/releases/download/v1.59.2/rclone-v1.59.2-linux-amd64.deb",
+		"architecture": "amd64",
+		"description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",
+		"subcategory": "rsync for cloud storage",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "1.1.9",
+		"name": "rustdesk",
+		"url": "https://github.com/rustdesk/rustdesk/releases/download/1.1.9/rustdesk-1.1.9.deb",
+		"architecture": "amd64",
+		"description": "Yet another remote desktop software",
+		"subcategory": "remote desktop software",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v0.6.6",
+		"name": "swifty",
+		"url": "https://github.com/swiftyapp/swifty/releases/download/v0.6.6/Swifty_0.6.6_amd64.deb",
+		"architecture": "Ch",
+		"description": "🔑   Free Offline Password Manager ",
+		"subcategory": "password manager",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v1.0.183",
+		"name": "tabby",
+		"url": "https://github.com/Eugeny/tabby/releases/download/v1.0.183/tabby-1.0.183-linux-x64.deb",
+		"architecture": "Ch",
+		"description": "A terminal for a more modern age (formerly Terminus) ",
+		"subcategory": "terminal",
+		"updateDetails": ""
+	},
+	{
+		"category": "Programming",
+		"version": "1.73.0.22306",
+		"name": "vscodium",
+		"url": "https://github.com/VSCodium/vscodium/releases/download/1.73.0.22306/codium_1.73.0.22306_amd64.deb",
+		"architecture": "amd64",
+		"description": "Free/Libre Open Source Software Binaries of VS Code",
+		"subcategory": "editor",
+		"updateDetails": ""
+	},
+	{
+		"category": "Internet",
+		"version": "v0.24.0",
+		"name": "webtorrent-desktop",
+		"url": "https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/webtorrent-desktop_0.24.0_amd64.deb",
+		"architecture": "Ch",
+		"description": "❤️ Streaming torrent app for Mac, Windows, and Linux",
+		"subcategory": "torrent",
+		"updateDetails": ""
+	},
+	{
+		"category": "Education",
+		"version": "0.0.48",
+		"name": "whiteboard",
+		"url": "https://github.com/michaelpb/whiteboard/releases/download/v0.0.48/whiteboard-app_0.0.48_amd64.deb",
+		"architecture": "amd64",
+		"description": "Activity-based slideshow application for coding webinars and presentations",
+		"subcategory": "whiteboard",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "0.12.5",
+		"name": "wkhtmltopdf",
+		"url": "https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.buster_amd64.deb",
+		"architecture": "amd64",
+		"description": "Convert HTML to PDF using Webkit (QtWebKit)",
+		"subcategory": "converter",
+		"updateDetails": ""
+	},
+	{
+		"category": "System&Tools",
+		"version": "v1.4.0",
+		"name": "xclicker",
+		"url": "https://github.com/robiot/xclicker/releases/download/v1.4.0/xclicker_1.4.0_amd64.deb",
+		"architecture": "amd64",
+		"description": "XClicker - Fast gui autoclicker for x11 linux desktops",
+		"subcategory": "autoclicker",
+		"updateDetails": ""
+	}
+]
